@@ -2,7 +2,7 @@ import React from "react";
 import { useNavigate } from "react-router-dom";
 
 const buttonStyle = {
-  backgroundColor: "#f44336", 
+  backgroundColor: "#f50057", 
   color: "white", 
   padding: "10px 20px", 
   border: "none", 
